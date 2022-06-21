@@ -1,1 +1,1 @@
-These are solutions for leetcode and Hacker rank problems that I am solved  
+These are solutions for leetcode and Hacker rank problems that I solved 
