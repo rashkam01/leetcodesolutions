@@ -7,3 +7,7 @@ class Solution:
         mul = numpy.prod(x)
         result = mul - add 
         return result 
+
+s = Solution()
+s.subtractProductAndSum(5)
+print(s.subtractProductAndSum)
